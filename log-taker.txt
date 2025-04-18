@@ -3561,3 +3561,16 @@
 4/17/2025 | 4:19:49 PM | INFO | Trying to activate mining on-chain for wallet: 0xC55b6d86b4dC43FBE0E4F04951b8CDCfD2a0A87e 
 4/17/2025 | 4:22:02 PM | ERROR | Activate Mining Error: {"errno":-110,"code":"ETIMEDOUT","syscall":"connect","address":"101.47.19.33","port":443}
 4/17/2025 | 4:22:02 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+4/17/2025 | 8:16:50 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/17/2025 | 8:16:51 PM | INFO | Start process for wallet 0xC55b6d86b4dC43FBE0E4F04951b8CDCfD2a0A87e 
+4/17/2025 | 8:16:51 PM | INFO | Trying To Login for wallet: 0xC55b6d86b4dC43FBE0E4F04951b8CDCfD2a0A87e 
+4/17/2025 | 8:16:52 PM | INFO | Login successful... 
+4/17/2025 | 8:16:52 PM | INFO | Trying to check user info... 
+4/17/2025 | 8:16:53 PM | INFO | User ID: 103244118 | Twitter: @gvarica | Total Points: 1344000 
+4/17/2025 | 8:16:53 PM | INFO | Trying to check user miner status... 
+4/17/2025 | 8:16:59 PM | INFO | Last mining time: 4/16/2025, 8:21:36 AM
+4/17/2025 | 8:16:59 PM | INFO | Trying to start Mining for wallet: 0xC55b6d86b4dC43FBE0E4F04951b8CDCfD2a0A87e 
+4/17/2025 | 8:17:02 PM | INFO | Mine response: {"code":500,"msg":"The contract is not activated. Please activate the contract first","data":null}
+4/17/2025 | 8:17:02 PM | INFO | Trying to activate mining on-chain for wallet: 0xC55b6d86b4dC43FBE0E4F04951b8CDCfD2a0A87e 
+4/17/2025 | 8:17:03 PM | ERROR | Activate Mining Error: {"errno":-111,"code":"ECONNREFUSED","syscall":"connect","address":"101.47.19.33","port":443}
+4/17/2025 | 8:17:03 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
