@@ -5420,3 +5420,15 @@
 5/20/2025 | 8:22:41 AM | INFO | Trying to activate mining on-chain for wallet: 0xC55b6d86b4dC43FBE0E4F04951b8CDCfD2a0A87e 
 5/20/2025 | 8:22:43 AM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":"0x08c379a0000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000000356d757374206265206d6f7265207468616e20323420686f7572732073696e636520746865206c6173742061637469766174696f6e2e0000000000000000000000","reason":"must be more than 24 hours since the last activation.","transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0xC55b6d86b4dC43FBE0E4F04951b8CDCfD2a0A87e"},"invocation":null,"revert":{"signature":"Error(string)","name":"Error","args":["must be more than 24 hours since the last activation."]},"shortMessage":"execution reverted: \"must be more than 24 hours since the last activation.\"","info":{"error":{"code":-32603,"message":"VM Exception while processing transaction: revert must be more than 24 hours since the last activation.","data":"0x08c379a0000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000000356d757374206265206d6f7265207468616e20323420686f7572732073696e636520746865206c6173742061637469766174696f6e2e0000000000000000000000"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x5b","from":"0xc55b6d86b4dc43fbe0e4f04951b8cdcfd2a0a87e","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
 5/20/2025 | 8:22:43 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/20/2025 | 12:34:34 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/20/2025 | 12:34:35 PM | INFO | Start process for wallet 0xC55b6d86b4dC43FBE0E4F04951b8CDCfD2a0A87e 
+5/20/2025 | 12:34:36 PM | INFO | Trying To Login for wallet: 0xC55b6d86b4dC43FBE0E4F04951b8CDCfD2a0A87e 
+5/20/2025 | 12:34:36 PM | INFO | Login successful... 
+5/20/2025 | 12:34:36 PM | INFO | Trying to check user info... 
+5/20/2025 | 12:34:37 PM | INFO | User ID: 103244118 | Twitter: @gvarica | Total Points: 2064000 
+5/20/2025 | 12:34:37 PM | INFO | Trying to check user miner status... 
+5/20/2025 | 12:34:37 PM | INFO | Last mining time: 5/19/2025, 12:34:21 PM
+5/20/2025 | 12:34:37 PM | INFO | Trying to start Mining for wallet: 0xC55b6d86b4dC43FBE0E4F04951b8CDCfD2a0A87e 
+5/20/2025 | 12:34:38 PM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+5/20/2025 | 12:34:38 PM | INFO | Trying to activate mining on-chain for wallet: 0xC55b6d86b4dC43FBE0E4F04951b8CDCfD2a0A87e 
+5/20/2025 | 12:34:49 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xc4c69f3533d134704d013fb6a3bd679ff2139ac31a3f6e2614372fc57fdcbcab 
