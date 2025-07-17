@@ -8741,3 +8741,12 @@
 7/17/2025 | 4:22:02 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 7/17/2025 | 4:22:02 PM | INFO | Trying to activate mining on-chain for wallet: 0xC55b6d86b4dC43FBE0E4F04951b8CDCfD2a0A87e 
 7/17/2025 | 4:22:06 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xfc3b40709e1bc31583fc21df4e802508a46d8e9a535d45111fac32a8e1180b26 
+7/17/2025 | 8:19:09 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+7/17/2025 | 8:19:09 PM | INFO | Start process for wallet 0xC55b6d86b4dC43FBE0E4F04951b8CDCfD2a0A87e 
+7/17/2025 | 8:19:10 PM | INFO | Trying To Login for wallet: 0xC55b6d86b4dC43FBE0E4F04951b8CDCfD2a0A87e 
+7/17/2025 | 8:19:10 PM | INFO | Login successful... 
+7/17/2025 | 8:19:10 PM | INFO | Trying to check user info... 
+7/17/2025 | 8:19:11 PM | INFO | User ID: 103244118 | Twitter: @gvarica | Total Points: 3312000 
+7/17/2025 | 8:19:11 PM | INFO | Trying to check user miner status... 
+7/17/2025 | 8:19:12 PM | INFO | Last mining time: 7/17/2025, 4:22:06 PM
+7/17/2025 | 8:19:12 PM | WARN | Mining already started, next mining time is: 7/18/2025, 4:22:06 PM
